@@ -18,11 +18,7 @@ HOST-SUFFIX,t.me
 HOST-SUFFIX,tdesktop.com
 HOST-SUFFIX,telega.one
 HOST-SUFFIX,telegra.ph
-HOST-SUFFIX-cdn.org
-HOST-SUFFIX.dog
-HOST-SUFFIX.me
-HOST-SUFFIX.org
-HOST-SUFFIX.space
+HOST-SUFFIX,-cdn.org
 HOST-SUFFIXdownload.com
 HOST-SUFFIX,telesco.pe
 HOST-SUFFIX,tg.dev
