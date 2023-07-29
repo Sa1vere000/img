@@ -1,0 +1,17 @@
+{
+  "api_key": "96552681.3a7e8b65bbd667a91f1107317963d150",
+  "torrent_directory": "D:/Program Files (x86)/red_oxide/watch",
+  "content_directory": "X:/music/RED",
+  "transcode_directory": "D:/Program Files (x86)/red_oxide/transcode",
+  "spectrogram_directory": "X:/music/spectrogram",
+  "move_transcode_to_content": false,
+  "automatic_upload": true,
+  "skip_hash_check": false,
+  "skip_spectrogram": true,
+  "allowed_transcode_formats": [
+    "Flac",
+    "Mp3320",
+    "Mp3V0"
+  ],
+  "concurrency": 16
+}
